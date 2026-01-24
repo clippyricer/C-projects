@@ -1,0 +1,3 @@
+/home/byte/c++/build/CMakeFiles/hello.dir
+/home/byte/c++/build/CMakeFiles/edit_cache.dir
+/home/byte/c++/build/CMakeFiles/rebuild_cache.dir
